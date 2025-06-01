@@ -11,10 +11,7 @@ A robust and scalable Discord.js v14 framework developed by Erxsdev, designed to
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
+- [Steps](#steps)
 - [License](#license)
 - [Contact](#contact)
 
@@ -26,14 +23,16 @@ This framework is ideal for projects requiring slash commands, event handling, a
 
 ## Features
 
-- **Modular Command System**: Organize slash commands, context menus, and message commands with a clean structure.
-- **Event Handler**: Efficiently manage Discord events (e.g., `ready`, `messageCreate`, `interactionCreate`) with a modular event system.
-- **Slash Command Support**: Full compatibility with Discord’s slash commands and interaction-based features in v14.
-- **Scalable Architecture**: Designed for small to large-scale bot projects with a focus on maintainability.
-- **TypeScript Support**: Optional TypeScript integration for type-safe development.
-- **Customizable Configuration**: Configure bot settings, tokens, and parameters via environment variables or a config file.
-- **Error Handling**: Built-in error handling for robust bot performance.
-- **Community-Driven**: Open to contributions and improvements from the developer community.
+- **Modular Command System**: Easily create and manage slash commands, message commands, and context menus with a clean, organized structure.
+- **Advanced Event Handling**: Handle Discord events (e.g., `ready`, `messageCreate`, `interactionCreate`) using a modular event system for flexibility and scalability.
+- **Slash Command Integration**: Full support for Discord.js v14’s slash commands, buttons, and select menus for modern Discord interactions.
+- **Logging System**: Comprehensive logging with customizable levels (e.g., `debug`, `info`, `error`) and output to console or files for debugging and monitoring.
+- **JSON-Based Database**: Lightweight data storage using JSON files (e.g., via `lowdb`) for managing user data, server settings, or command states.
+- **Scalable Architecture**: Supports projects of any size, from small bots to large-scale applications, with a focus on maintainability.
+- **TypeScript Compatibility**: Optional TypeScript support for type-safe development and better code organization.
+- **Error Handling**: Robust error handling to prevent crashes and provide meaningful error messages.
+- **Environment-Based Configuration**: Configure bot settings, tokens, and database paths using environment variables or config files.
+- **Community-Driven Development**: Open to contributions, with clear guidelines for adding features or fixing bugs.
 
 ## Installation
 
@@ -68,8 +67,6 @@ To set up the `Discord-V14-Advanced-Infrastructure` framework, follow these step
 ### Licence
 This project is licensed under the [MIT License](https://github.com/erxsdev/Discord-V14-Advanced-Infrastructure/blob/main/LICENSE).
 
-### Developer
+### Contact
 - Discord: erxsdev
-- E-posta: erxsdev@gmail.com
-
-https://discord.com/users/906845653416689665
+- Email: erxsdev@gmail.com
