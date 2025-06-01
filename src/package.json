@@ -1,0 +1,31 @@
+{
+  "name": "discord-v14-advanced-infrastructure",
+  "version": "1.0.0",
+  "description": "Discord.js v14 framework developed by Erxsdev.",
+  "license": "MIT",
+  "keywords": [
+    "discord",
+    "discord.js",
+    "boat",
+    "infrastructure",
+    "discord v14",
+    "discord infrastructure",
+    "discord bot infrastructure",
+    "discord.js v14 infrastructure",
+    "discord.js infrastructure",
+    "discord.js v14",
+    "discord.js infrastructure v14",
+    "erxsdev"
+  ],
+  "author": "erxsdev",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0"
+  }
+}
