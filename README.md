@@ -52,3 +52,24 @@ To set up the `Discord-V14-Advanced-Infrastructure` framework, follow these step
    ```bash
    git clone https://github.com/erxsdev/Discord-V14-Advanced-Infrastructure.git
    cd Discord-V14-Advanced-Infrastructure
+
+2. **Install dependencies**:
+   ```bash
+   npm install || npm i
+
+3. **Edit the .env file**:
+   ```bash
+   TOKEN=YourBotToken
+
+4. **Start the Bot**:
+   ```bash
+   npm run start || npm . || start.bat ---> open or cmd
+
+### Licence
+This project is licensed under the [MIT License](https://github.com/erxsdev/Discord-V14-Advanced-Infrastructure/blob/main/LICENSE).
+
+### Developer
+- Discord: erxsdev
+- E-posta: erxsdev@gmail.com
+
+https://discord.com/users/906845653416689665
